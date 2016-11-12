@@ -1,0 +1,50 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-image: url(background.png);
+	background-size: cover;
+	height: 646px;
+}
+.nav{
+	display: flex;
+	flex-direction: row;
+
+}
+.nav img{
+	padding-left: 60px;
+	padding-top: 20px;
+	width: 200px;
+	height: 200px;
+}
+.nav a{
+	padding-top: 20px;
+	text-decoration: none;
+	color: #363636;
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+}
+.menu{
+	padding-left: 300px;
+	padding-right: 80px;
+}
+.afisha{
+	padding-right: 80px;
+}
+.buttom{
+	display: flex;
+	flex-direction: column;
+}
+
+#reserve{
+	padding-top: 50px;
+	padding-left: 60px;
+
+}
+
+#pre-order{
+	padding-left: 60px;
+	padding-top: 20px; 
+}
+
